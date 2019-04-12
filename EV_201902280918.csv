@@ -1,0 +1,7 @@
+******************************************************** 
+*********  Electric Sweeper Enhanced Log File  ***** 
+******************************************************** 
+Date,20190228,'VE-Alpha4'
+Time,Voltage,Current,Isolation,Range,SoC,Distance,Fan rpm,Fan Torque,Hyd. Pump rpm,Hyd. Pump Torque,SW Pump rpm,SW Pump Torque,Nozzle,Sidebrushes,WideSweepBrush,TempIGBT-Fan,Fan motor temp, Traction rpm, Traction torque,BMS1 Volts, BMS2 Volts 
+9:18:36,0.000000000e+000,0,0,0,0,0,0,0.000000000e+000,0,0.000000000e+000,0,0.000000000e+000,Up,Off,Off,0,0.000000000e+000,0,0,0,0
+9:18:36,0.000000000e+000,0,0,0,0,0,0,0.000000000e+000,0,0.000000000e+000,0,0.000000000e+000,Up,Off,Off,0,0.000000000e+000,0,0,0,0
