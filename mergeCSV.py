@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Mar 29 11:40:45 2019
-
-@author: bmusammartanov
+@author: v. sammartano
 """
 #Libraries
 import csv
@@ -49,6 +47,6 @@ def main():
     except Exception as ee:
         raise ee
 
-if __main__ == "main":
+if __name__ == "__main__":
     main()
     input("Any key to exit!")
